@@ -1,3 +1,9 @@
+6c4f289 Task 2.4
+7ce514d Task 2.3
+6ba5b71 Task 2.2
+23bd17b Task 2.1
+bff9f42 Task 2.1.4
+9c5601a Task 1.2, update log
 3a3a233 Task 1.2
 259cf69 Task 1.1
 c43ee9c Initial commit
